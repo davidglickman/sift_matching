@@ -8,7 +8,7 @@ import time
 import psutil  # For CPU & memory usage tracking
 
 # Google Maps API Key (Replace with your valid API key)
-GOOGLE_API_KEY = "AIzaSyC_hmE1sHUzWTDgEh5bnjsKjRhheCFrGuY" 
+GOOGLE_API_KEY = "xxx" 
 
 # Constants
 NES_ZIONA_LAT, NES_ZIONA_LON = 31.9292, 34.7986
